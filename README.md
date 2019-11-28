@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository in Git
+now I can edit my files and commit them at new branche.
